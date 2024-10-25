@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@mxkit/inquire": "jsr:@mxkit/inquire@^0.1.0",
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
